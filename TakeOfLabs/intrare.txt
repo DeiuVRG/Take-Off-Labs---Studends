@@ -1,0 +1,19 @@
+7
+1 Mihai UBB
+2 Patricia UTCN
+100 Maria UPT
+13 Elena UPT
+5 Andrei UTCN
+77 Sergiu UTCN
+99 Cristina UPT
+10
+8.0 77
+9.9 100
+6.0 77
+8.8 100
+7.1 77
+6.1 1
+6.8 2
+9.5 13
+6.3 5
+9.0 99
